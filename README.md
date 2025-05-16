@@ -1,6 +1,3 @@
-<h1 align="center">Yo! 👋 I'm Teuku Aryansyah Pratama</h1>
-<h3 align="center">👨‍💻 Student of IT | Full Stack Developer</h3>
-
 ### 📈 GitHub Stats
 
 <p align="left">
